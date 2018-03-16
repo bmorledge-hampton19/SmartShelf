@@ -1,0 +1,16 @@
+html {margin: 0; padding: 0;}
+
+body {margin: 0; padding: 0; background-image: url('Background.png'); background-attachment: fixed; background-blend-mode: lighten;}
+
+h1 {background-color: white; color: Green; font-size: 50px; font-weight: bold; Text-Align: center; opacity: 0.9;}
+h1.developer {margin-top: -40px; opacity: 1.0; font-size: 32px; font-weight: normal;}
+
+h2 {background-color: white; color: DarkGreen; Text-align: left; font-size: 32px; opacity: 0.9; margin-bottom: 0px;}
+
+h3 {Text-Align: center;}
+
+p {background-color: white; color: Gray; Text-align: justified; font-size: 20px; opacity: 0.9; margin-top: 0px;}
+
+img.developer {height: 30%;}
+img.buttonImage {height: 20%;}
+img.ss {height: 50%;}
