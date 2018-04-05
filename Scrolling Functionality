@@ -1,0 +1,19 @@
+# Create a ScrollComponent 
+scroll = new ScrollComponent
+    size: 120
+ 
+# Assign the content layers 
+layerA.parent = scroll.content
+ 
+layerB.parent = scroll.content
+
+--------------------------------------------
+# After Scroll, the ScrollAnimation starts 
+scroll.onScrollAnimationDidStart ->
+    layer.animate
+        width: 100
+ 
+# After the scroll animation 
+scroll.onScrollAnimationDidEnd ->
+    layer.animate
+        width: 120
