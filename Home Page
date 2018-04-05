@@ -1,0 +1,117 @@
+rectangle3 = new Layer
+	x: -9
+	y: 719
+	width: 395
+	height: 94
+	backgroundColor: "rgba(255,255,255,1)"
+	borderRadius: 2
+	borderColor: "rgba(151,151,151,1)"
+	borderWidth: 1
+
+icon16512 = new Layer
+	x: 86
+	y: 732
+	width: 79
+	height: 79
+
+layer_3304e35f47f81180e8c8b896b5d57332KnifesForks = new Layer
+	x: 4
+	y: 732
+	width: 79
+	height: 79
+
+layer_45945MedicalNotesSymbolOfAListPaperOnAClipboard = new Layer
+	x: 286
+	y: 724
+	width: 79
+	height: 79
+
+heatingFoodInFlatPanOnFire_31861254 = new Layer
+	x: 187
+	y: 721
+	width: 79
+	height: 79
+
+rectangle4 = new Layer
+	x: -14
+	y: 0
+	width: 430
+	height: 149
+	backgroundColor: "rgba(109,243,116,1)"
+	borderRadius: 2
+	borderColor: "rgba(151,151,151,1)"
+	borderWidth: 1
+
+layer_2000pxVisualEditor__Icon__Historysvg = new Layer
+	x: 2
+	y: 9
+	width: 69
+	height: 69
+
+credit_Card512 = new Layer
+	x: 286
+	y: 3
+	width: 88
+	height: 88
+
+rectangle5 = new Layer
+	x: -8
+	y: 149
+	width: 395
+	height: 117
+	backgroundColor: "rgba(255,255,255,1)"
+	borderColor: "rgba(0,0,0,1)"
+	borderWidth: 1
+
+rectangle5_2 = new Layer
+	x: -12
+	y: 266
+	width: 395
+	height: 117
+	backgroundColor: "rgba(255,255,255,1)"
+	borderColor: "rgba(151,151,151,1)"
+	borderWidth: 1
+
+rectangle5_3 = new Layer
+	x: -10
+	y: 383
+	width: 395
+	height: 117
+	backgroundColor: "rgba(255,255,255,1)"
+	borderColor: "rgba(0,0,0,1)"
+	borderWidth: 1
+
+rectangle5_4 = new Layer
+	x: -11
+	y: 499
+	width: 395
+	height: 117
+	backgroundColor: "rgba(255,255,255,1)"
+	borderColor: "rgba(0,0,0,1)"
+	borderWidth: 1
+
+rectangle5_5 = new Layer
+	x: -11
+	y: 604
+	width: 395
+	height: 117
+	backgroundColor: "rgba(255,255,255,1)"
+	borderColor: "rgba(0,0,0,1)"
+	borderWidth: 1
+
+oval3 = new Layer
+	x: 143
+	y: 12
+	width: 87
+	height: 88
+
+typeSomething = new TextLayer
+	x: 99
+	y: 104
+	text: "Greeting"
+	fontSize: 25
+	fontFamily: "Helvetica Neue"
+	fontWeight: 700
+	textAlign: "left"
+	color: "rgba(0,0,0,1)"
+}
