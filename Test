@@ -1,0 +1,186 @@
+rectangle = new Layer
+	x: 0
+	y: 0
+	width: 375
+	height: 812
+	backgroundColor: "transparent"
+	borderColor: "rgba(151,151,151,1)"
+	borderWidth: 1
+	shadowColor: "rgba(113,35,35,0.5)"
+	shadowX: 0
+	shadowY: 2
+	shadowBlur: 4
+	shadowSpread: 0
+
+dieabetic = new TextLayer
+	x: 117
+	y: 246
+	text: "Dieabetic"
+	fontSize: 35
+	fontFamily: "Helvetica Neue"
+	fontWeight: 300
+	textAlign: "center"
+	color: "rgba(0,0,0,1)"
+
+rectangle2 = new Layer
+	x: 91
+	y: 428
+	width: 193
+	height: 71
+	backgroundColor: "rgba(255,255,255,1)"
+	borderRadius: 100
+	borderColor: "rgba(151,151,151,1)"
+	borderWidth: 1
+
+rectangle2_2 = new Layer
+	x: 91
+	y: 526
+	width: 193
+	height: 71
+	backgroundColor: "rgba(255,255,255,1)"
+	borderRadius: 100
+	borderColor: "rgba(151,151,151,1)"
+	borderWidth: 1
+
+rectangle2_3 = new Layer
+	x: 91
+	y: 329
+	width: 193
+	height: 71
+	backgroundColor: "rgba(255,255,255,1)"
+	borderRadius: 100
+	borderColor: "rgba(151,151,151,1)"
+	borderWidth: 1
+
+rectangle2_4 = new Layer
+	x: 90
+	y: 239
+	width: 193
+	height: 71
+	backgroundColor: "rgba(255,255,255,1)"
+	borderRadius: 100
+	borderColor: "rgba(151,151,151,1)"
+	borderWidth: 1
+
+iPhoneXOverridesTimeBlack = new Layer
+	x: 23
+	y: 0
+	width: 54
+	height: 30
+
+oval2 = new Layer
+	x: 227
+	y: 744
+	width: 21
+	height: 21
+	backgroundColor: "rgba(255,255,255,1)"
+	borderRadius: 10.5
+	borderColor: "rgba(151,151,151,1)"
+	borderWidth: 1
+
+oval2_2 = new Layer
+	x: 287
+	y: 744
+	width: 21
+	height: 21
+	backgroundColor: "rgba(255,255,255,1)"
+	borderRadius: 10.5
+	borderColor: "rgba(151,151,151,1)"
+	borderWidth: 1
+
+allergies = new TextLayer
+	x: 44
+	y: 58
+	width: 287
+	text: "Allergies "
+	fontSize: 48
+	fontFamily: "Helvetica Neue"
+	fontWeight: 700
+	textAlign: "center"
+	color: "rgba(255,255,255,1)"
+
+line = new Layer
+	x: 17
+	y: 703
+	width: 42
+	height: 3
+
+nutFree = new TextLayer
+	x: 123
+	y: 437
+	text: "Nut Free"
+	fontSize: 35
+	fontFamily: "Helvetica Neue"
+	fontWeight: 300
+	textAlign: "center"
+	color: "rgba(0,0,0,1)"
+
+dairyFree = new TextLayer
+	x: 112
+	y: 339
+	text: "Dairy Free"
+	fontSize: 35
+	fontFamily: "Helvetica Neue"
+	fontWeight: 300
+	textAlign: "center"
+	color: "rgba(0,0,0,1)"
+
+diabetic = new TextLayer
+	x: 126.5
+	y: 246
+	text: "Diabetic"
+	fontSize: 35
+	fontFamily: "Helvetica Neue"
+	fontWeight: 300
+	textAlign: "center"
+	color: "rgba(0,0,0,1)"
+
+glutenFree = new TextLayer
+	x: 98
+	y: 536
+	text: "Gluten Free"
+	fontSize: 35
+	fontFamily: "Helvetica Neue"
+	fontWeight: 300
+	textAlign: "center"
+	color: "rgba(0,0,0,1)"
+
+rectangle2_5 = new Layer
+	x: 99
+	y: 148
+	width: 177
+	height: 71
+	backgroundColor: "rgba(255,255,255,1)"
+	borderRadius: 100
+	borderColor: "rgba(151,151,151,1)"
+	borderWidth: 1
+
+custom = new TextLayer
+	x: 128
+	y: 162
+	text: "Custom"
+	fontSize: 35
+	fontFamily: "Helvetica Neue"
+	fontWeight: 300
+	textAlign: "center"
+	color: "rgba(0,0,0,1)"
+
+rectangle2_6 = new Layer
+	x: 114
+	y: 623
+	width: 148
+	height: 71
+	backgroundColor: "rgba(255,255,255,1)"
+	borderRadius: 100
+	borderColor: "rgba(151,151,151,1)"
+	borderWidth: 1
+
+soy = new TextLayer
+	x: 156.5
+	y: 632
+	text: "Soy"
+	fontSize: 35
+	fontFamily: "Helvetica Neue"
+	fontWeight: 300
+	textAlign: "center"
+	color: "rgba(0,0,0,1)"
